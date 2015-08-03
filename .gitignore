@@ -40,3 +40,7 @@ nbproject/
 
 # cscope databases
 cscope.out
+
+# cmake generated
+src
+tmp
